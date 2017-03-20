@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorExample", "Cas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindsorExampleClassLibrary", "CastleWindsorExampleClassLibrary\CastleWindsorExampleClassLibrary.csproj", "{76E36233-E22F-4E6A-9A99-FE9B6F38484E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCastleWindsor.ToBeSeen", "LearningCastleWindsor.ToBeSeen\LearningCastleWindsor.ToBeSeen.csproj", "{181636F3-D0A0-427B-83F3-405FDC896B39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{76E36233-E22F-4E6A-9A99-FE9B6F38484E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E36233-E22F-4E6A-9A99-FE9B6F38484E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E36233-E22F-4E6A-9A99-FE9B6F38484E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181636F3-D0A0-427B-83F3-405FDC896B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181636F3-D0A0-427B-83F3-405FDC896B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181636F3-D0A0-427B-83F3-405FDC896B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181636F3-D0A0-427B-83F3-405FDC896B39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
