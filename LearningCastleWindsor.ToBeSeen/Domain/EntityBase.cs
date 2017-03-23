@@ -8,6 +8,6 @@ namespace LearningCastleWindsor.ToBeSeen.Domain
 {
     public abstract class EntityBase
     {
-       public long Id { get; set; }
+        public virtual long Id { get; set; }
     }
 }

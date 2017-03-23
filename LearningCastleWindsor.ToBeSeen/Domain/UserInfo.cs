@@ -8,7 +8,7 @@ namespace LearningCastleWindsor.ToBeSeen.Domain
 {
     public class UserInfo : EntityBase
     {
-        public string Email { get; set; }
-        public string Username { get; set; }
+        public virtual string Email { get; set; }
+        public virtual string Username { get; set; }
     }
 }

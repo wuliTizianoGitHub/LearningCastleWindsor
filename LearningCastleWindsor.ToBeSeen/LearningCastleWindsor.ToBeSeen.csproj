@@ -214,6 +214,7 @@
     <Compile Include="Domain\EntityBase.cs" />
     <Compile Include="Domain\Event.cs" />
     <Compile Include="Domain\UserInfo.cs" />
+    <Compile Include="Facilities\PersistenceFacility.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

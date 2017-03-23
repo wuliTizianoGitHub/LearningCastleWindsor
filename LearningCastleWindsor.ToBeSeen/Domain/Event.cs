@@ -8,12 +8,14 @@ namespace LearningCastleWindsor.ToBeSeen.Domain
 {
     public class Event : EntityBase
     {
-        public string Description { get; set; }
+        public virtual string Description { get; set; }
 
-        public string Title { get; set; }
+        public virtual string Title { get; set; }
 
-        public DateTime When { get; set; }
+        public virtual DateTime When { get; set; }
 
-        public string Where { get; set; }
+        public virtual string Where { get; set; }
+
+        public virtual UserInfo GenerateBy { get; set; }
     }
 }
